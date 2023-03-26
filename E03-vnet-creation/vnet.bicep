@@ -54,3 +54,4 @@ resource nsg2 'Microsoft.Network/networkSecurityGroups@2021-08-01' = {
   location: location
   name: 'nsg2'
 }
+
