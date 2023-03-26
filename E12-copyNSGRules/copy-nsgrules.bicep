@@ -23,3 +23,4 @@ resource nsg2 'Microsoft.Network/networkSecurityGroups/securityRules@2022-09-01'
     priority: nsg.properties.priority
   }
 }
+//comment
